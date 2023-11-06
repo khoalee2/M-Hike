@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HikerManagementApp</string>
+    <string-array name="options">
+        <item>Parking available</item>
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+    <string-array name="weather">
+        <item>What is the weather like?</item>
+        <item>Sunny</item>
+        <item>Rainy</item>
+        <item>Snowy</item>
+    </string-array>
+</resources>
